@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-PocketBookWebsite/static/css/main.8a50928f.chunk.css",
+    "main.js": "/React-PocketBookWebsite/static/js/main.054f590d.chunk.js",
+    "main.js.map": "/React-PocketBookWebsite/static/js/main.054f590d.chunk.js.map",
+    "runtime-main.js": "/React-PocketBookWebsite/static/js/runtime-main.1ac3c992.js",
+    "runtime-main.js.map": "/React-PocketBookWebsite/static/js/runtime-main.1ac3c992.js.map",
+    "static/js/2.dea36588.chunk.js": "/React-PocketBookWebsite/static/js/2.dea36588.chunk.js",
+    "static/js/2.dea36588.chunk.js.map": "/React-PocketBookWebsite/static/js/2.dea36588.chunk.js.map",
+    "index.html": "/React-PocketBookWebsite/index.html",
+    "precache-manifest.d7a66c55bbb7decd7a7ecda72d3e30cb.js": "/React-PocketBookWebsite/precache-manifest.d7a66c55bbb7decd7a7ecda72d3e30cb.js",
+    "service-worker.js": "/React-PocketBookWebsite/service-worker.js",
+    "static/css/main.8a50928f.chunk.css.map": "/React-PocketBookWebsite/static/css/main.8a50928f.chunk.css.map",
+    "static/js/2.dea36588.chunk.js.LICENSE.txt": "/React-PocketBookWebsite/static/js/2.dea36588.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac3c992.js",
+    "static/js/2.dea36588.chunk.js",
+    "static/css/main.8a50928f.chunk.css",
+    "static/js/main.054f590d.chunk.js"
+  ]
+}
